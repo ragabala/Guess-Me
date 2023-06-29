@@ -18,3 +18,8 @@ Users task is to find the number in the given chances using the clues :)
 
 Good luck !!
 
+
+
+Execute using python 3
+
+python guess_me.py
